@@ -1,0 +1,27 @@
+{
+  "name": "Devices Mgmt",
+  "version": "0.0.0",
+  "authors": [
+    "Mauro Carrero <mauro.carrero@globant.com>"
+  ],
+  "description": "Mobile devices management app.",
+  "main": "index.html",
+  "keywords": [
+    "device",
+    "mobile"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "backbone": "~1.1.2",
+    "bootstrap": "~3.2.0",
+    "jquery": "~2.1.1",
+    "underscore": "~1.7.0"
+  }
+}
